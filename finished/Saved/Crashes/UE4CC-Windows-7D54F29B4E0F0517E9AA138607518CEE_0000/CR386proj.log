@@ -1,0 +1,911 @@
+﻿Log file open, 12/10/19 20:05:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CR386proj
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.088841
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Engine.ini]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Engine.ini]
+[2019.12.11-04.05.01:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Engine.ini]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.11-04.05.01:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Engine.ini]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.11-04.05.01:102][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Engine.ini]
+[2019.12.11-04.05.01:102][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Engine.ini]
+[2019.12.11-04.05.01:104][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.11-04.05.01:104][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-04.05.01:105][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-04.05.01:105][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-04.05.01:105][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.11-04.05.01:108][  0]LogHAL: Display: Platform has ~ 8 GB [8467406848 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.11-04.05.01:108][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.11-04.05.01:108][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.11-04.05.01:108][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.11-04.05.01:109][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/noodl/Documents/Unreal Projects/current/Saved/Config/Windows/Engine.ini]
+[2019.12.11-04.05.01:110][  0]LogInit: Computer: LAPTOP-N5A2Q0DU
+[2019.12.11-04.05.01:110][  0]LogInit: User: noodl
+[2019.12.11-04.05.01:110][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.11-04.05.01:110][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.11-04.05.01:110][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.11-04.05.01:110][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.11-04.05.01:110][  0]LogMemory: Process Physical Memory: 100.96 MB used, 100.96 MB peak
+[2019.12.11-04.05.01:110][  0]LogMemory: Process Virtual Memory: 100.80 MB used, 100.80 MB peak
+[2019.12.11-04.05.01:110][  0]LogMemory: Physical Memory: 4735.54 MB used,  3339.61 MB free, 8075.15 MB total
+[2019.12.11-04.05.01:110][  0]LogMemory: Virtual Memory: 4668.30 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.12.11-04.05.01:112][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.11-04.05.01:136][  0]LogInit: Using OS detected language (en-US).
+[2019.12.11-04.05.01:136][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.11-04.05.01:136][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.11-04.05.01:324][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.11-04.05.01:410][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.11-04.05.01:410][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.11-04.05.01:569][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-04.05.01:569][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.11-04.05.01:600][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.12.11-04.05.01:601][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.11-04.05.01:603][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.11-04.05.01:603][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.11-04.05.01:603][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.11-04.05.01:610][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.11-04.05.01:610][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.11-04.05.01:610][  0]LogWindows: EnumDisplayDevices:
+[2019.12.11-04.05.01:610][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.12.11-04.05.01:610][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.11-04.05.01:611][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.11-04.05.01:611][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.11-04.05.01:611][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.12.11-04.05.01:611][  0]LogD3D11RHI:   Driver Version: 24.20.100.6286 (internal:24.20.100.6286, unified:24.20.100.6286)
+[2019.12.11-04.05.01:611][  0]LogD3D11RHI:      Driver Date: 8-15-2018
+[2019.12.11-04.05.01:611][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2019.12.11-04.05.01:636][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.11-04.05.01:641][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.11-04.05.02:048][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.11-04.05.02:057][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.11-04.05.02:066][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.11-04.05.02:076][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.11-04.05.02:086][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.11-04.05.02:095][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.11-04.05.02:104][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.11-04.05.02:114][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.11-04.05.02:118][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.11-04.05.02:152][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.11-04.05.02:154][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.11-04.05.02:173][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.11-04.05.02:173][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.11-04.05.02:188][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.11-04.05.02:188][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.11-04.05.02:195][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.11-04.05.02:202][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.11-04.05.02:209][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.11-04.05.02:217][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.11-04.05.02:241][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.11-04.05.02:241][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.11-04.05.02:241][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.11-04.05.02:251][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.11-04.05.02:307][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/noodl/Documents/Unreal Projects/current/Intermediate/Shaders/WorkingDirectory/16804/).
+[2019.12.11-04.05.02:307][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/noodl/AppData/Local/Temp/UnrealShaderWorkingDir/833FBE3F4A62F73D4B5AE8A41CABE42D/'.
+[2019.12.11-04.05.02:310][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.11-04.05.02:310][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.11-04.05.02:310][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.11-04.05.02:916][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.11-04.05.02:972][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/noodl/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-04.05.02:972][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/noodl/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.11-04.05.02:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/noodl/Documents/Unreal Projects/current/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.11-04.05.02:972][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.11-04.05.02:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/noodl/Documents/Unreal Projects/current/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.11-04.05.02:972][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.11-04.05.02:983][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.11-04.05.02:983][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.11-04.05.02:984][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.11-04.05.02:985][  0]LogDerivedDataCache: Using Local data cache path C:/Users/noodl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.11-04.05.02:985][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.11-04.05.02:985][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.11-04.05.03:006][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.11-04.05.03:009][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.11-04.05.03:009][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.11-04.05.03:066][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2019.12.11-04.05.03:352][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-04.05.03:500][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.11-04.05.03:500][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.11-04.05.03:500][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.11-04.05.03:500][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.11-04.05.03:500][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.11-04.05.03:510][  0]LogNetVersion: CR386proj 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3622662769)
+[2019.12.11-04.05.03:688][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EDepthOfFieldMethod' with an invalid value of '('
+[2019.12.11-04.05.04:100][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.223940 seconds
+[2019.12.11-04.05.04:108][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.11-04.05.04:108][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.11-04.05.04:108][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.11-04.05.04:926][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.11-04.05.04:929][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.11-04.05.04:987][  0]SourceControl: Source control is disabled
+[2019.12.11-04.05.04:987][  0]SourceControl: Source control is disabled
+[2019.12.11-04.05.04:989][  0]SourceControl: Source control is disabled
+[2019.12.11-04.05.04:990][  0]SourceControl: Source control is disabled
+[2019.12.11-04.05.05:073][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.11-04.05.05:172][  0]LogOcInput: OculusInput pre-init called
+[2019.12.11-04.05.05:180][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.11-04.05.05:180][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.11-04.05.05:254][  0]LogEngine: Initializing Engine...
+[2019.12.11-04.05.05:255][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-04.05.05:256][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.11-04.05.05:483][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.11-04.05.05:504][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.11-04.05.05:513][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-04.05.05:795][  0]LogInit: FAudioDevice initialized.
+[2019.12.11-04.05.05:795][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.11-04.05.06:149][  0]LogDerivedDataCache: Saved boot cache 0.35s 73MB C:/Users/noodl/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-04.05.06:167][  0]LogInit: Texture streaming: Enabled
+[2019.12.11-04.05.06:186][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.11-04.05.06:389][  0]LogInit: Transaction tracking system initialized
+[2019.12.11-04.05.06:437][  0]BlueprintLog: New page: Editor Load
+[2019.12.11-04.05.06:521][  0]LocalizationService: Localization service is disabled
+[2019.12.11-04.05.06:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noodl/Documents/Unreal Projects/current/Content/' took 0.01s
+[2019.12.11-04.05.06:828][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.11-04.05.06:829][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.11-04.05.07:006][  0]SourceControl: Source control is disabled
+[2019.12.11-04.05.07:007][  0]Cmd: MAP LOAD FILE="../../../../../../Users/noodl/Documents/Unreal Projects/current/Content/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.11-04.05.07:724][  0]LightingResults: New page: Lighting Build
+[2019.12.11-04.05.07:727][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-04.05.07:727][  0]MapCheck: New page: Map Check
+[2019.12.11-04.05.07:727][  0]LightingResults: New page: Lighting Build
+[2019.12.11-04.05.07:751][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.12.11-04.05.10:531][  0]LogAIModule: Creating AISystem for world Map
+[2019.12.11-04.05.10:536][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-04.05.10:566][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.11-04.05.10:566][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-04.05.10:566][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2019.12.11-04.05.10:567][  0]LogFileHelpers: Loading map 'Map' took 3.560
+[2019.12.11-04.05.10:684][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.05.10:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.05.10:697][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.05.10:705][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.05.10:712][  0]LogCollectionManager: Loaded 0 collections in 0.002138 seconds
+[2019.12.11-04.05.10:717][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noodl/Documents/Unreal Projects/current/Saved/Collections/' took 0.00s
+[2019.12.11-04.05.10:717][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noodl/Documents/Unreal Projects/current/Content/Developers/noodl/Collections/' took 0.00s
+[2019.12.11-04.05.10:718][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noodl/Documents/Unreal Projects/current/Content/Collections/' took 0.00s
+[2019.12.11-04.05.10:718][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.11-04.05.10:727][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2863 classes and 680 folders.
+[2019.12.11-04.05.10:766][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.11-04.05.10:813][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.11-04.05.10:825][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.11-04.05.10:827][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.11-04.05.10:836][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.11-04.05.10:836][  0]LogLoad: (Engine Initialization) Total time: 11.27 seconds
+[2019.12.11-04.05.10:837][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.11-04.05.10:897][  0]LogAssetRegistry: Asset discovery search completed in 7.8320 seconds
+[2019.12.11-04.05.10:901][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.11-04.05.10:901][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.12.11-04.05.10:902][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.11-04.05.10:912][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.11-04.05.11:474][  0]LogRenderer: Reallocating scene render targets to support 812x384 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-04.05.11:887][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-04.05.14:466][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.05.14:561][149]LogRenderer: Reallocating scene render targets to support 976x464 Format 10 NumSamples 1 (Frame:5).
+[2019.12.11-04.05.15:743][196]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-04.05.15:759][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.05.15:759][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-04.05.15:809][196]PIE: New page: PIE session: Map (Dec 10, 2019, 12:05:15 PM)
+[2019.12.11-04.05.15:810][196]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.11-04.05.15:812][196]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2019.12.11-04.05.15:816][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004196s)
+[2019.12.11-04.05.15:818][196]LogAIModule: Creating AISystem for world Map
+[2019.12.11-04.05.15:818][196]LogPlayLevel: PIE: World Init took: (0.001994s)
+[2019.12.11-04.05.15:818][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.006571s)
+[2019.12.11-04.05.15:843][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.12.11-04.05.15:848][196]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-04.05.15:928][196]LogInit: FAudioDevice initialized.
+[2019.12.11-04.05.15:946][196]LogLoad: Game class is 'MainGameMode_C'
+[2019.12.11-04.05.15:948][196]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2019.12.10-20.05.15
+[2019.12.11-04.05.15:949][196]LogWorld: Bringing up level for play took: 0.000526
+[2019.12.11-04.05.15:949][196]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.11-04.05.15:979][196]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.11-04.05.16:138][196]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.673
+[2019.12.11-04.05.16:139][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.05.21:308][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.05.21:308][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.05.21:308][346]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2019.12.11-04.05.21:308][346]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-04.05.21:394][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-04.05.21:435][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.05.21:468][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.05.21:471][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.12.11-04.05.21:487][347]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.11-04.05.25:284][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.05.44:280][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.12.11-04.05.45:926][500]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.11-04.05.45:935][500]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-04.05.46:126][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.12.11-04.06.15:460][851]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground.BP_Ground
+[2019.12.11-04.06.15:760][851]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.12.11-04.06.16:647][851]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.11-04.06.16:692][852]LogSlate: Took 0.000843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.11-04.06.19:712][ 15]LogRenderer: Reallocating scene render targets to support 1036x496 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-04.07.04:562][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.07.42:566][ 66]BlueprintLog: New page: Compile BP_Ground
+[2019.12.11-04.07.42:839][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.12.11-04.07.45:528][148]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-04.07.45:550][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.07.45:550][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-04.07.45:550][148]PIE: New page: PIE session: Map (Dec 10, 2019, 12:07:45 PM)
+[2019.12.11-04.07.45:550][148]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2019.12.11-04.07.45:553][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002252s)
+[2019.12.11-04.07.45:554][148]LogAIModule: Creating AISystem for world Map
+[2019.12.11-04.07.45:554][148]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2019.12.11-04.07.45:554][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003477s)
+[2019.12.11-04.07.45:593][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.12.11-04.07.45:598][148]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-04.07.45:677][148]LogInit: FAudioDevice initialized.
+[2019.12.11-04.07.45:690][148]LogLoad: Game class is 'MainGameMode_C'
+[2019.12.11-04.07.45:693][148]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2019.12.10-20.07.45
+[2019.12.11-04.07.45:694][148]LogWorld: Bringing up level for play took: 0.001048
+[2019.12.11-04.07.45:694][148]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.11-04.07.45:708][148]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.243
+[2019.12.11-04.07.45:708][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.08.14:708][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.08.14:709][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.08.14:709][ 16]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2019.12.11-04.08.14:709][ 16]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-04.08.14:799][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-04.08.14:799][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.08.14:844][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.08.14:849][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.12.11-04.08.14:866][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.11-04.08.16:427][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.08.54:467][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-04.09.10:367][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-04.09.14:603][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-04.09.21:626][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.10.41:728][699]BlueprintLog: New page: Compile BP_Ground
+[2019.12.11-04.10.42:007][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.11-04.10.45:327][812]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-04.10.45:350][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.10.45:350][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-04.10.45:350][812]PIE: New page: PIE session: Map (Dec 10, 2019, 12:10:45 PM)
+[2019.12.11-04.10.45:350][812]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2019.12.11-04.10.45:352][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002384s)
+[2019.12.11-04.10.45:353][812]LogAIModule: Creating AISystem for world Map
+[2019.12.11-04.10.45:353][812]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2019.12.11-04.10.45:354][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003593s)
+[2019.12.11-04.10.45:387][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.12.11-04.10.45:391][812]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-04.10.45:468][812]LogInit: FAudioDevice initialized.
+[2019.12.11-04.10.45:476][812]LogLoad: Game class is 'MainGameMode_C'
+[2019.12.11-04.10.45:477][812]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2019.12.10-20.10.45
+[2019.12.11-04.10.45:477][812]LogWorld: Bringing up level for play took: 0.000412
+[2019.12.11-04.10.45:477][812]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.11-04.10.45:488][812]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.023
+[2019.12.11-04.10.45:488][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.10.53:658][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.10.53:659][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.10.53:659][ 55]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2019.12.11-04.10.53:660][ 55]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-04.10.53:745][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-04.10.53:745][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.11-04.10.53:786][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.10.53:790][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.11-04.10.53:807][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.11-04.10.55:532][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.11.42:868][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.13.06:607][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.13.06:686][403]BlueprintLog: New page: Compile BP_Ground
+[2019.12.11-04.13.06:953][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.12.11-04.13.46:804][972]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GroundSpawner.BP_GroundSpawner
+[2019.12.11-04.16.20:469][782]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1749)].
+[2019.12.11-04.16.20:573][782]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.12.11-04.16.20:573][782]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map' took 0.043
+[2019.12.11-04.16.20:574][782]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Ground] ([1] browsable assets)...
+[2019.12.11-04.16.20:619][782]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ground.BP_Ground]
+[2019.12.11-04.16.20:619][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ground]
+[2019.12.11-04.16.21:200][782]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/BP_Ground_Auto13EB09DEB4F22798A99845EA174C9F8A8.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Blueprints/BP_Ground_Auto1.uasset'
+[2019.12.11-04.16.21:202][782]LogFileHelpers: Auto-saving content packages took 0.628
+[2019.12.11-04.17.34:471][501]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/noodl/Desktop/Crossy Road Assets/rock.obj)
+[2019.12.11-04.17.34:749][501]LogFbx: Loading FBX Scene from ../../../../../../Users/noodl/Desktop/Crossy Road Assets/rock.obj
+[2019.12.11-04.17.34:795][501]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.11-04.17.36:913][501]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.11-04.17.37:242][501]LogLinker: Failed to load '/Game/Assets/rock/rock': Can't find file.
+[2019.12.11-04.17.37:313][501]LogTexture: Display: Building textures: rock1 (BGRA8, 256X1)
+[2019.12.11-04.17.37:393][501]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.11-04.17.37:851][501]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-04.17.37:851][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-04.17.37:851][501]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.11-04.17.37:851][501]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-04.17.37:856][501]LogStaticMesh: Building static mesh rock...
+[2019.12.11-04.17.37:920][501]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/rock/rock.rock
+[2019.12.11-04.17.38:101][501]LogStaticMesh: Warning: rock has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.11-04.17.38:101][501]LogStaticMesh: Warning: rock has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.11-04.17.38:800][501]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.11-04.17.38:801][501]FBXImport: Warning: rock has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.11-04.17.38:801][501]FBXImport: Warning: rock has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.11-04.17.51:991][187]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.17.51:999][187]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.18.23:072][648]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/noodl/Desktop/Crossy Road Assets/stump.obj)
+[2019.12.11-04.18.23:084][648]LogFbx: Loading FBX Scene from ../../../../../../Users/noodl/Desktop/Crossy Road Assets/stump.obj
+[2019.12.11-04.18.23:089][648]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.11-04.18.24:416][648]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.11-04.18.24:508][648]LogLinker: Failed to load '/Game/Assets/stump/stump': Can't find file.
+[2019.12.11-04.18.24:510][648]LogTexture: Display: Building textures: stump1 (BGRA8, 256X1)
+[2019.12.11-04.18.24:519][648]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.11-04.18.24:533][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-04.18.24:533][648]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-04.18.24:533][648]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.11-04.18.24:533][648]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-04.18.24:537][648]LogStaticMesh: Building static mesh stump...
+[2019.12.11-04.18.24:538][648]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/stump/stump.stump
+[2019.12.11-04.18.24:538][648]LogStaticMesh: Warning: stump has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.11-04.18.24:538][648]LogStaticMesh: Warning: stump has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.11-04.18.24:551][648]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.11-04.18.24:551][648]FBXImport: Warning: stump has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.11-04.18.24:551][648]FBXImport: Warning: stump has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.11-04.18.25:852][700]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.18.25:870][700]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.18.35:168][914]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/noodl/Desktop/Crossy Road Assets/1tree.obj)
+[2019.12.11-04.18.35:178][914]LogFbx: Loading FBX Scene from ../../../../../../Users/noodl/Desktop/Crossy Road Assets/1tree.obj
+[2019.12.11-04.18.35:206][914]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.11-04.18.36:457][914]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.11-04.18.36:489][914]LogLinker: Failed to load '/Game/Assets/tree1/1tree': Can't find file.
+[2019.12.11-04.18.36:507][914]LogTexture: Display: Building textures: 1tree1 (BGRA8, 256X1)
+[2019.12.11-04.18.36:514][914]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.11-04.18.36:533][914]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-04.18.36:533][914]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-04.18.36:533][914]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.11-04.18.36:533][914]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-04.18.36:533][914]LogStaticMesh: Building static mesh 1tree...
+[2019.12.11-04.18.36:534][914]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/tree1/1tree.1tree
+[2019.12.11-04.18.36:534][914]LogStaticMesh: Warning: 1tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.11-04.18.36:534][914]LogStaticMesh: Warning: 1tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.11-04.18.36:546][914]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.11-04.18.36:546][914]FBXImport: Warning: 1tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.11-04.18.36:546][914]FBXImport: Warning: 1tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.11-04.18.38:178][968]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.18.38:195][968]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.18.48:609][299]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/noodl/Desktop/Crossy Road Assets/2tree.obj)
+[2019.12.11-04.18.48:620][299]LogFbx: Loading FBX Scene from ../../../../../../Users/noodl/Desktop/Crossy Road Assets/2tree.obj
+[2019.12.11-04.18.48:628][299]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.11-04.18.49:906][299]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.11-04.18.49:939][299]LogLinker: Failed to load '/Game/Assets/tree2/2tree': Can't find file.
+[2019.12.11-04.18.49:942][299]LogTexture: Display: Building textures: 2tree1 (BGRA8, 256X1)
+[2019.12.11-04.18.49:949][299]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.11-04.18.49:967][299]LogStaticMesh: Building static mesh 2tree...
+[2019.12.11-04.18.49:968][299]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-04.18.49:968][299]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-04.18.49:968][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.11-04.18.49:968][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-04.18.49:968][299]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/tree2/2tree.2tree
+[2019.12.11-04.18.49:969][299]LogStaticMesh: Warning: 2tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.11-04.18.49:969][299]LogStaticMesh: Warning: 2tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.11-04.18.49:979][299]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.11-04.18.49:979][299]FBXImport: Warning: 2tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.11-04.18.49:979][299]FBXImport: Warning: 2tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.11-04.18.51:450][357]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.18.51:466][357]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.18.59:370][631]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/noodl/Desktop/Crossy Road Assets/3tree.obj)
+[2019.12.11-04.18.59:384][631]LogFbx: Loading FBX Scene from ../../../../../../Users/noodl/Desktop/Crossy Road Assets/3tree.obj
+[2019.12.11-04.18.59:390][631]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.11-04.19.00:775][631]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.11-04.19.00:813][631]LogLinker: Failed to load '/Game/Assets/tree3/3tree': Can't find file.
+[2019.12.11-04.19.00:817][631]LogTexture: Display: Building textures: 3tree1 (BGRA8, 256X1)
+[2019.12.11-04.19.00:823][631]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.11-04.19.00:839][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-04.19.00:839][631]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-04.19.00:839][631]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.11-04.19.00:839][631]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-04.19.00:841][631]LogStaticMesh: Building static mesh 3tree...
+[2019.12.11-04.19.00:842][631]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/tree3/3tree.3tree
+[2019.12.11-04.19.00:842][631]LogStaticMesh: Warning: 3tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.11-04.19.00:842][631]LogStaticMesh: Warning: 3tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.11-04.19.00:857][631]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.11-04.19.00:857][631]FBXImport: Warning: 3tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.11-04.19.00:857][631]FBXImport: Warning: 3tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.11-04.19.01:968][670]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.19.01:986][670]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.19.09:658][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/noodl/Desktop/Crossy Road Assets/4tree.obj)
+[2019.12.11-04.19.09:671][928]LogFbx: Loading FBX Scene from ../../../../../../Users/noodl/Desktop/Crossy Road Assets/4tree.obj
+[2019.12.11-04.19.09:736][928]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.11-04.19.11:202][928]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.11-04.19.11:232][928]LogLinker: Failed to load '/Game/Assets/tree4/4tree': Can't find file.
+[2019.12.11-04.19.11:234][928]LogTexture: Display: Building textures: 4tree1 (BGRA8, 256X1)
+[2019.12.11-04.19.11:242][928]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.11-04.19.11:260][928]LogStaticMesh: Building static mesh 4tree...
+[2019.12.11-04.19.11:261][928]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/tree4/4tree.4tree
+[2019.12.11-04.19.11:261][928]LogStaticMesh: Warning: 4tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.11-04.19.11:261][928]LogStaticMesh: Warning: 4tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.11-04.19.11:274][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-04.19.11:274][928]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-04.19.11:275][928]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.11-04.19.11:275][928]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-04.19.11:275][928]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.11-04.19.11:275][928]FBXImport: Warning: 4tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.11-04.19.11:275][928]FBXImport: Warning: 4tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.11-04.19.12:804][990]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.19.12:814][990]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-04.26.58:056][301]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.11-04.27.20:028][677]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Decor.Decor
+[2019.12.11-04.28.50:433][477]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-04.28.50:548][477]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2019.12.11-04.28.50:548][477]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map' took 0.070
+[2019.12.11-04.28.50:550][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Ground] ([1] browsable assets)...
+[2019.12.11-04.28.50:584][477]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ground.BP_Ground]
+[2019.12.11-04.28.50:584][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ground]
+[2019.12.11-04.28.50:626][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/BP_Ground_Auto280959CA241B8C1F2C5E00BB8D88653A3.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Blueprints/BP_Ground_Auto2.uasset'
+[2019.12.11-04.28.50:690][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/rock/rock] ([1] browsable assets)...
+[2019.12.11-04.28.50:726][477]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/rock/rock.rock]
+[2019.12.11-04.28.50:726][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/rock/rock]
+[2019.12.11-04.28.50:726][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/rock/rock" FILE="../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/rock/rock_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.12.11-04.28.50:845][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/rock_Auto23829E8CC4B92540277106D9597D88AA4.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/rock/rock_Auto2.uasset'
+[2019.12.11-04.28.50:848][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/rock/palette] ([1] browsable assets)...
+[2019.12.11-04.28.50:883][477]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/rock/palette.palette]
+[2019.12.11-04.28.50:883][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/rock/palette]
+[2019.12.11-04.28.50:902][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/palette_Auto2F4CA26B3416EE26F4D9E4EBE51854162.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/rock/palette_Auto2.uasset'
+[2019.12.11-04.28.50:903][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/rock/rock1] ([1] browsable assets)...
+[2019.12.11-04.28.50:904][477]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/rock/rock1.rock1]
+[2019.12.11-04.28.50:904][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/rock/rock1]
+[2019.12.11-04.28.50:912][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/rock1_Auto2432FD7BC44D3506993E362B3C5F567F8.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/rock/rock1_Auto2.uasset'
+[2019.12.11-04.28.50:914][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/stump/stump] ([1] browsable assets)...
+[2019.12.11-04.28.50:946][477]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/stump/stump.stump]
+[2019.12.11-04.28.50:946][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/stump/stump]
+[2019.12.11-04.28.50:962][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/stump_Auto2CB6AF711489A43FF20A20EB07F80EF77.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/stump/stump_Auto2.uasset'
+[2019.12.11-04.28.50:963][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/stump/palette] ([1] browsable assets)...
+[2019.12.11-04.28.50:997][477]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/stump/palette.palette]
+[2019.12.11-04.28.50:997][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/stump/palette]
+[2019.12.11-04.28.51:041][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/palette_Auto2E21ACBFA41BE848F109658AADA44D11E.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/stump/palette_Auto2.uasset'
+[2019.12.11-04.28.51:042][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/stump/stump1] ([1] browsable assets)...
+[2019.12.11-04.28.51:043][477]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/stump/stump1.stump1]
+[2019.12.11-04.28.51:043][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/stump/stump1]
+[2019.12.11-04.28.51:051][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/stump1_Auto22669AC0447ADCA9174CD6F9ED054A67F.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/stump/stump1_Auto2.uasset'
+[2019.12.11-04.28.51:053][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree1/1tree] ([1] browsable assets)...
+[2019.12.11-04.28.51:086][477]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/tree1/1tree.1tree]
+[2019.12.11-04.28.51:086][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree1/1tree]
+[2019.12.11-04.28.51:102][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/1tree_Auto2B1E66B674F9EAFF92F10518F1A169C26.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree1/1tree_Auto2.uasset'
+[2019.12.11-04.28.51:104][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree1/palette] ([1] browsable assets)...
+[2019.12.11-04.28.51:137][477]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/tree1/palette.palette]
+[2019.12.11-04.28.51:137][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree1/palette]
+[2019.12.11-04.28.51:318][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/palette_Auto2037979D84432999A33F9D0BBC50BB7B1.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree1/palette_Auto2.uasset'
+[2019.12.11-04.28.51:323][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree1/1tree1] ([1] browsable assets)...
+[2019.12.11-04.28.51:325][477]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/tree1/1tree1.1tree1]
+[2019.12.11-04.28.51:325][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree1/1tree1]
+[2019.12.11-04.28.51:354][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/1tree1_Auto253C3A8E54771D9BC687BDC8F84290DA3.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree1/1tree1_Auto2.uasset'
+[2019.12.11-04.28.51:356][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree2/2tree] ([1] browsable assets)...
+[2019.12.11-04.28.51:389][477]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/tree2/2tree.2tree]
+[2019.12.11-04.28.51:389][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree2/2tree]
+[2019.12.11-04.28.51:405][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/2tree_Auto211953820476F2D4253CC5B81476E8223.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree2/2tree_Auto2.uasset'
+[2019.12.11-04.28.51:406][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree2/palette] ([1] browsable assets)...
+[2019.12.11-04.28.51:439][477]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/tree2/palette.palette]
+[2019.12.11-04.28.51:439][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree2/palette]
+[2019.12.11-04.28.51:568][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/palette_Auto2AB6E16C94A0F635CA21FEDAF79038D10.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree2/palette_Auto2.uasset'
+[2019.12.11-04.28.51:570][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree2/2tree1] ([1] browsable assets)...
+[2019.12.11-04.28.51:573][477]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/tree2/2tree1.2tree1]
+[2019.12.11-04.28.51:573][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree2/2tree1]
+[2019.12.11-04.28.51:582][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/2tree1_Auto22C8342CF44ED909011AE53BD8757F875.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree2/2tree1_Auto2.uasset'
+[2019.12.11-04.28.51:584][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree3/3tree] ([1] browsable assets)...
+[2019.12.11-04.28.51:622][477]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/tree3/3tree.3tree]
+[2019.12.11-04.28.51:622][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree3/3tree]
+[2019.12.11-04.28.51:639][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/3tree_Auto200072CE74597E264071DCFB6772E40FE.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree3/3tree_Auto2.uasset'
+[2019.12.11-04.28.51:640][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree3/palette] ([1] browsable assets)...
+[2019.12.11-04.28.51:676][477]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/tree3/palette.palette]
+[2019.12.11-04.28.51:676][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree3/palette]
+[2019.12.11-04.28.51:699][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/palette_Auto20578F6B8422D633F99290785383A31F5.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree3/palette_Auto2.uasset'
+[2019.12.11-04.28.51:700][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree3/3tree1] ([1] browsable assets)...
+[2019.12.11-04.28.51:702][477]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/tree3/3tree1.3tree1]
+[2019.12.11-04.28.51:702][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree3/3tree1]
+[2019.12.11-04.28.51:710][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/3tree1_Auto2E090791A4453F12AFD5D2FB08FA3E9EE.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree3/3tree1_Auto2.uasset'
+[2019.12.11-04.28.51:712][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree4/4tree] ([1] browsable assets)...
+[2019.12.11-04.28.51:745][477]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/tree4/4tree.4tree]
+[2019.12.11-04.28.51:745][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree4/4tree]
+[2019.12.11-04.28.51:761][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/4tree_Auto2F33BD1D345D469FBA1E7CE859C8CB701.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree4/4tree_Auto2.uasset'
+[2019.12.11-04.28.51:762][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree4/palette] ([1] browsable assets)...
+[2019.12.11-04.28.51:806][477]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/tree4/palette.palette]
+[2019.12.11-04.28.51:806][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree4/palette]
+[2019.12.11-04.28.51:835][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/palette_Auto27CA4F99D4E2396EFBE0F4DBD937933FD.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree4/palette_Auto2.uasset'
+[2019.12.11-04.28.51:836][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/tree4/4tree1] ([1] browsable assets)...
+[2019.12.11-04.28.51:838][477]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/tree4/4tree1.4tree1]
+[2019.12.11-04.28.51:838][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/tree4/4tree1]
+[2019.12.11-04.28.51:846][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/4tree1_Auto2B17C41C244FC89B68178CC9F0F0718ED.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Assets/tree4/4tree1_Auto2.uasset'
+[2019.12.11-04.28.51:848][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Decor] ([1] browsable assets)...
+[2019.12.11-04.28.51:884][477]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Decor.Decor]
+[2019.12.11-04.28.51:884][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Decor]
+[2019.12.11-04.28.51:884][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Decor" FILE="../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Blueprints/Decor_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.12.11-04.28.51:904][477]LogSavePackage: Moving '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Decor_Auto2527F30694964D544469D67946BFDB003.tmp' to '../../../../../../Users/noodl/Documents/Unreal Projects/current/Saved/Autosaves/Game/Blueprints/Decor_Auto2.uasset'
+[2019.12.11-04.28.51:906][477]LogFileHelpers: Auto-saving content packages took 1.357
+[2019.12.11-04.29.45:295][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-04.30.39:376][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.30.39:490][105]BlueprintLog: New page: Compile Decor
+[2019.12.11-04.30.39:805][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.12.11-04.31.15:914][997]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.11-04.31.40:818][457]LogUObjectArray: Warning: Other object in slot
+[2019.12.11-04.31.40:878][457]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.11-04.31.43:206][457]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.328 s
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: 
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: Stack: 
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: [Callstack] 0x00007ff924e241e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: [Callstack] 0x00007ff924647d9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: [Callstack] 0x00007ff92464866d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: [Callstack] 0x00007ff924655fff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: [Callstack] 0x00007ff90f266c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.11-04.31.43:206][457]LogOutputDevice: Error: [Callstack] 0x00007ff90b024dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff90afde057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff925ffd644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff9261ec533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff92604922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff926025738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff926019a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff935404c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff9353f26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff935407340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff9353eedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff95f4863ed USER32.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff95f485de2 USER32.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff9354088e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff624416980 UE4Editor.exe!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff62442a91c UE4Editor.exe!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff62442a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.11-04.31.43:207][457]LogOutputDevice: Error: [Callstack] 0x00007ff62443b92c UE4Editor.exe!UnknownFunction []
+[2019.12.11-04.31.43:208][457]LogOutputDevice: Error: [Callstack] 0x00007ff62443e60e UE4Editor.exe!UnknownFunction []
+[2019.12.11-04.31.43:208][457]LogOutputDevice: Error: [Callstack] 0x00007ff95f087bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.11-04.31.43:208][457]LogOutputDevice: Error: [Callstack] 0x00007ff960faced1 ntdll.dll!UnknownFunction []
+[2019.12.11-04.31.43:208][457]LogOutputDevice: Error: 
+[2019.12.11-04.31.43:242][457]LogStats:                SubmitErrorReport -  0.000 s
